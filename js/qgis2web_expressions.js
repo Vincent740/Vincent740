@@ -757,7 +757,7 @@ function fnc_project_color(values, context) {
 
 
 
-function exp_BATIMENTS_DIRMC_2015_1rule0_eval_expression(context) {
+function exp_BATIMENTS_DIRMC_2015_3rule0_eval_expression(context) {
     // Type = 'CEI'
 
     var feature = context.feature;
@@ -770,7 +770,7 @@ function exp_BATIMENTS_DIRMC_2015_1rule0_eval_expression(context) {
 }
 
 
-function exp_EEE_3rule0_eval_expression(context) {
+function exp_EEE_4rule0_eval_expression(context) {
     // "Nature EEE" = 'Ailante' AND densite = 'Faible'
 
     var feature = context.feature;
@@ -783,7 +783,7 @@ function exp_EEE_3rule0_eval_expression(context) {
 }
 
 
-function exp_EEE_3rule1_eval_expression(context) {
+function exp_EEE_4rule1_eval_expression(context) {
     // "Nature EEE" = 'Ailante' AND densite = 'Moyenne'
 
     var feature = context.feature;
@@ -796,7 +796,7 @@ function exp_EEE_3rule1_eval_expression(context) {
 }
 
 
-function exp_EEE_3rule2_eval_expression(context) {
+function exp_EEE_4rule2_eval_expression(context) {
     // "Nature EEE" = 'Ailante' AND densite = 'Forte'
 
     var feature = context.feature;
@@ -809,7 +809,7 @@ function exp_EEE_3rule2_eval_expression(context) {
 }
 
 
-function exp_EEE_3rule3_eval_expression(context) {
+function exp_EEE_4rule3_eval_expression(context) {
     // "Nature EEE" = 'Ambroisie' AND densite = 'Faible'
 
     var feature = context.feature;
@@ -822,7 +822,7 @@ function exp_EEE_3rule3_eval_expression(context) {
 }
 
 
-function exp_EEE_3rule4_eval_expression(context) {
+function exp_EEE_4rule4_eval_expression(context) {
     // "Nature EEE" = 'Ambroisie' AND densite = 'Moyenne'
 
     var feature = context.feature;
@@ -835,7 +835,7 @@ function exp_EEE_3rule4_eval_expression(context) {
 }
 
 
-function exp_EEE_3rule5_eval_expression(context) {
+function exp_EEE_4rule5_eval_expression(context) {
     // "Nature EEE" = 'Ambroisie' AND densite = 'Forte'
 
     var feature = context.feature;
@@ -848,7 +848,7 @@ function exp_EEE_3rule5_eval_expression(context) {
 }
 
 
-function exp_EEE_3rule6_eval_expression(context) {
+function exp_EEE_4rule6_eval_expression(context) {
     // "Nature EEE" = 'Renouée' AND densite = 'Faible'
 
     var feature = context.feature;
@@ -861,7 +861,7 @@ function exp_EEE_3rule6_eval_expression(context) {
 }
 
 
-function exp_EEE_3rule7_eval_expression(context) {
+function exp_EEE_4rule7_eval_expression(context) {
     // "Nature EEE" = 'Renouée' AND densite = 'Moyenne'
 
     var feature = context.feature;
@@ -874,7 +874,7 @@ function exp_EEE_3rule7_eval_expression(context) {
 }
 
 
-function exp_EEE_3rule8_eval_expression(context) {
+function exp_EEE_4rule8_eval_expression(context) {
     // "Nature EEE" = 'Renouée' AND densite = 'Forte'
 
     var feature = context.feature;
